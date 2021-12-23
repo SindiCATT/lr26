@@ -16,4 +16,4 @@ def get_sq(width, height):
 
 
 if __name__ == '__main__':
-    print(get_sq(width=4, height=6))
+    print(get_sq(width=12, height=58))
